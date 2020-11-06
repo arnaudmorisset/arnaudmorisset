@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**arnaudmorisset/arnaudmorisset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a **Back-End Web Developer** at [Fewlines](https://github.com/fewlinesco/).
+We build developer-friendly APIs for modern online & offline commerce.
 
-Here are some ideas to get you started:
+Aside from that, I enjoy chiming into Game Development and IoT, as a hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with [Elixir](https://elixir-lang.org/), [Go](https://go.dev/) and [TypeScript](https://www.typescriptlang.org/).
+
+I wrote a bunch of [Elm](https://elm-lang.org/) and [Ruby](https://www.ruby-lang.org/en/) some years ago.
+
+I am interested in:
+
+- ☁️ Large scale back-end systems, Web APIs, Cloud Native applications.
+- 👨‍💻 Command-Line tools, POSIX systems and how to program them.
+- 👾 Computer Graphics and Game Engines.
