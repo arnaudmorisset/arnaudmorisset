@@ -11,6 +11,6 @@ I wrote a bunch of [Elm](https://elm-lang.org/) and [Ruby](https://www.ruby-lang
 
 I am interested in:
 
-- ☁️ Large scale back-end systems, Web APIs, Cloud Native applications.
-- 👨‍💻 Command-Line tools, POSIX systems and how to program them.
-- 👾 Computer Graphics and Game Engines.
+- ☁️ Large scale back-end systems, web APIs and cloud native applications.
+- 👨‍💻 Command-line tools, mostly for POSIX systems.
+- 👾 Computer graphics and game engines.
