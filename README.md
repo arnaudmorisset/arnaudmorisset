@@ -13,4 +13,4 @@ I am interested in:
 
 - ☁️ Large scale back-end systems, web APIs and cloud native applications.
 - 👨‍💻 Command-line tools, mostly for POSIX systems.
-- 👾 Computer graphics and game engines.
+- 👾 Game engines and related tools.
