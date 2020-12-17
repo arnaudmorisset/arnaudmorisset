@@ -13,4 +13,4 @@ I split my time between:
 
 - 👨‍💻 Learning how to build and improve large scale software systems.
 - 🛠 Programming some tools to support my teammates' workflow.
-- 🎲 Mastering tabletop RPGs for my friends.
+- 🎲 Playing tabletop RPGs with my friends.
