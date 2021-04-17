@@ -10,5 +10,5 @@ Some years ago, I wrote a bunch of [Elm](https://elm-lang.org/) and [Ruby](https
 I split my time between:
 
 - 👨‍💻 Learning how to build and improve large scale software systems.
-- 🛠 Tinkering with game and system programming.
+- 🛠 Tinkering with system programming.
 - 🎲 Playing tabletop RPGs with my friends.
