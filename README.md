@@ -1,14 +1,9 @@
 # Hello! 👋
 
-I work as a **Back-End Web Developer** at [Fewlines](https://github.com/fewlinesco/).
-We build developer-friendly APIs for modern online & offline commerce.
+Hello!
 
-I work with [Elixir](https://elixir-lang.org/), [Go](https://go.dev/) and [TypeScript](https://www.typescriptlang.org/).
+I'm **Arnaud Morisset**: a software developer from France. I work at [fewlines](https://github.com/fewlinesco/), where my current focus is on Business Software Systems (also known as [Enterprise Applications](https://martinfowler.com/bliki/EnterpriseApplication.html)) for e-commerce.
 
-Some years ago, I wrote a bunch of [Elm](https://elm-lang.org/) and [Ruby](https://www.ruby-lang.org/en/).
+Even if I consider myself a T-shaped developer, my main interests rotate around the system side of computing. I can bring some changes to the front-end to bring new user-facing features using the latest trendy framework. Still, you will find that I'm happier when building APIs, CLIs or working with databases and software's observability tools.
 
-I split my time between:
-
-- 👨‍💻 Learning how to build and improve large scale software systems.
-- 🛠 Tinkering with system programming.
-- 🎲 Playing tabletop RPGs with my friends.
+On the hobby side, I like to tinker with Arduino (and more low-level cards), and I'm not against the idea to work full-time on low-level stuff someday. Also, I'm an experienced dungeon master, previously for DnD, now primarily for more narrative systems like Fate or Blades In The Dark.
